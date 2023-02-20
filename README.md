@@ -1,2 +1,3 @@
 # OKCupid-Date-A-Scientist
- A group project for Codecademy's Datascience-ML program
+
+This is a group project for Codecademy's Datascience-ML program
